@@ -1,0 +1,4 @@
+Process is a program in execution. As a process executes, it changes state.
+The state of the process is defined by that process' current activity. Each
+process may be in one of many states. Each process is represented in the OS
+by its process control  block.
